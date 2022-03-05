@@ -1,7 +1,7 @@
 ## Hey there, I'm Ali Zain! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 - 📚 I'm a second-year student at the [University of Houston](https://uh.edu) studying Computer Science and Math with a minor in Business Administration!
-- 🌱 I'm a budding Software Engineer; Machine Learning and Artificial Intelligence Enthusiast
+- 🌱 I'm a budding Software Engineer; Machine Learning, Data Science and Artificial Intelligence Enthusiast
 - 🔭 I’m currently the VP of CodeRED at CougarCS (University of Houston's Largest Student-led CS Organization).
 - 😄 I enjoy playing soccer, binge-watching Netflix, hanging out with friends, and of course, coding! 
 - ⚡ Fun fact: I spent most of my life living in Bombay, India! 🇮🇳
