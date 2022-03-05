@@ -1,6 +1,6 @@
 ## Hey there, I'm Ali Zain! 👋
 
-- 📚 I'm a second-year student at the University of Houston studying Computer Science and Math!
+- 📚 I'm a second-year student at the [University of Houston](https://uh.edu) studying Computer Science and Math!
 - 🔭 I’m currently the VP of CodeRED at CougarCS (University of Houston's Largest Student-led CS Organization).
 - 😄 I enjoy playing soccer, binge-watching Netflix, hanging out with friends, and of course, coding! 
 - ⚡ Fun fact: I spent most of my life living in Bombay, India! 🇮🇳
