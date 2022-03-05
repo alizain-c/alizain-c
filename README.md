@@ -7,6 +7,8 @@
 
 📫 To reach me, shoot me an email @ azcharolia@uh.edu
 
+[![Ali Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=alizain-c)](https://github.com/alizain-c/github-readme-stats)
+
 <!--
 **alizain-c/alizain-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
