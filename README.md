@@ -1,5 +1,5 @@
 ## Hey there, I'm Ali Zain! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+there,+I'm+Ali+Zain!+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px")](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+there,+I'm+Ali+Zain!)](https://git.io/typing-svg)
 
 - 📚 I'm a second-year student at the [University of Houston](https://uh.edu) studying Computer Science and Math with a minor in Business Administration!
 - 🌱 I'm a budding Software Engineer; Machine Learning, Data Science and Artificial Intelligence Enthusiast
