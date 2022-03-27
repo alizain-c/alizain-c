@@ -6,7 +6,7 @@
 - 😄 I enjoy playing soccer, binge-watching Netflix, hanging out with friends, and of course, coding! 
 - ⚡ Fun fact: I spent most of my life living in Bombay, India! 🇮🇳
 
-📫 To reach me, shoot me an email @ azcharolia@uh.edu
+📫 To reach me, shoot me an email @ azcharolia@uh.edu or connect with me on [LinkedIn](https://linkedin.com/alizaincharolia/)
 
 [![Ali Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=alizain-c)](https://github.com/alizain-c/github-readme-stats)
 
