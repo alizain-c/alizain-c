@@ -10,7 +10,7 @@
 
 [![Ali Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=alizain-c)](https://github.com/alizain-c/github-readme-stats)
 
-Links: 
+### Links:
 [<img alt="Twitter" width="35px" src="https://github.com/alizain-c/README-Files/blob/main/twitter.png" />](https://twitter.com/alizainofficial)
 
 <!--
