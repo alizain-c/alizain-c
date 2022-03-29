@@ -8,7 +8,7 @@
 
 📫 To reach me, shoot me an email @ azcharolia@uh.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/alizaincharolia/).
 
-Connect with me: [Personal Website](https://www.alizaincharolia.com),  [LinkedIn](https://www.linkedin.com/in/alizaincharolia/),  [Twitter](https://twitter.com/alizainofficial).
+Connect with me: [Personal Website](https://www.alizaincharolia.com),  [LinkedIn](https://www.linkedin.com/in/alizaincharolia/) and [Twitter](https://twitter.com/alizainofficial).
 
 [![Ali Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=alizain-c)](https://github.com/alizain-c/github-readme-stats)
 
