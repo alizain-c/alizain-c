@@ -12,6 +12,9 @@
 
 Links: 
 <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpnggrid.com%2Fdownload%2Ftwitter-logo-png-square-image%2F&psig=AOvVaw3cE03Qf9lK45v_6sTscx-v&ust=1648620786890000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiMzZXV6vYCFQAAAAAdAAAAABAO" width = "30px">
+[![Twitter](https://github.com/alizain-c/README-Files/blob/main/twitter.png)](https://twitter.com/alizainofficial)
+
+
 
 <!--
 **alizain-c/alizain-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
