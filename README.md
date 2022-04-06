@@ -10,7 +10,7 @@
 
 Connect with me: [Personal Website](https://www.alizaincharolia.com),  [LinkedIn](https://www.linkedin.com/in/alizaincharolia/) and [Twitter](https://twitter.com/alizainofficial).
 
-Also, check out my: [Medium](https://medium.com/@alizain.charolia).
+Also, check out my [Medium](https://medium.com/@alizain.charolia).
 
 [![Ali Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=alizain-c)](https://github.com/alizain-c/github-readme-stats)
 
