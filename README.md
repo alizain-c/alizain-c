@@ -12,9 +12,9 @@ Connect with me: [Personal Website](https://www.alizaincharolia.com),  [LinkedIn
 
 Also, check out my [Medium](https://medium.com/@alizain.charolia).
 
-[![Ali Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=alizain-c)](https://github.com/alizain-c/github-readme-stats) 
+[![Ali Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=alizain-c)](https://github.com/alizain-c/github-readme-stats)  <img src="https://github.com/alizain-c/alizain-c/blob/main/images/anime.gif" width="100" height="100">
 <!-- ![Anime](https://github.com/alizain-c/alizain-c/blob/main/images/anime.gif) -->
-<img src="https://github.com/alizain-c/alizain-c/blob/main/images/anime.gif" width="100" height="100">
+
 
 <!--
 ### Links:
