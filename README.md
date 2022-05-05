@@ -19,6 +19,8 @@ Toolbox: <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="HTML Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss Logo" width="50" height="50"/>
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS CODE Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git Logo" width="50" height="50"/>
