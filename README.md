@@ -12,6 +12,9 @@ Connect with me: [Personal Website](https://www.alizaincharolia.com),  [LinkedIn
 
 Also, check out my [Medium](https://medium.com/@alizain.charolia).
 
+Toolbox: 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/>
+
 [![Ali Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=alizain-c)](https://github.com/alizain-c/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/alizain-c/alizain-c/blob/main/images/anime.gif" width="200" height="200">
 <!-- ![Anime](https://github.com/alizain-c/alizain-c/blob/main/images/anime.gif) -->
 
