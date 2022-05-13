@@ -28,7 +28,7 @@ Temp:
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git Logo" width="50" height="50"/>
 -->
 
-[![Ali Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=alizain-c)](https://github.com/alizain-c/github-readme-stats)&nbsp;<img align="right" alt="PC GIF" src="https://github.com/alizain-c/alizain-c/blob/main/images/PC.gif" width="150" /><img src="https://github.com/alizain-c/alizain-c/blob/main/images/anime.gif" width="150" height="150">
+[![Ali Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=alizain-c)](https://github.com/alizain-c/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/alizain-c/alizain-c/blob/main/images/anime.gif" width="150" height="150">
 <!-- ![Anime](https://github.com/alizain-c/alizain-c/blob/main/images/anime.gif) -->
 
 
@@ -37,6 +37,8 @@ Temp:
 [<img alt="Twitter" width="55px" src="https://github.com/alizain-c/README-Files/blob/main/twitter.png" />](https://twitter.com/alizainofficial)
 [<img alt="LinkedIn" width="60px" src="https://github.com/alizain-c/README-Files/blob/main/linkedin.png" />](https://www.linkedin.com/in/alizaincharolia/)
 
+PC .gif: 
+<img align="right" alt="PC GIF" src="https://github.com/alizain-c/alizain-c/blob/main/images/PC.gif" width="150"/>
 -->
 
 
