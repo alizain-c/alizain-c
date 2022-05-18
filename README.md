@@ -28,7 +28,7 @@ Temp:
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git Logo" width="50" height="50"/>
 -->
 
-[![Ali Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=alizain-c)](https://github.com/alizain-c/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/alizain-c/alizain-c/blob/main/images/anime.gif" width="200" height="200">
+<!-- [![Ali Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=alizain-c)](https://github.com/alizain-c/github-readme-stats) -->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/alizain-c/alizain-c/blob/main/images/anime.gif" width="200" height="200">
 <!-- ![Anime](https://github.com/alizain-c/alizain-c/blob/main/images/anime.gif) -->
 
 
