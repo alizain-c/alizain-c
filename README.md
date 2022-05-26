@@ -1,6 +1,6 @@
 ## Hey there, I'm Ali Zain! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
-- 📚 I'm a second-year student at the [University of Houston](https://uh.edu) studying Computer Science and Math with a minor in Business Administration!
+- 📚 I'm a third-year student at the [University of Houston](https://uh.edu) studying Computer Science and Math with a minor in Business Administration!
 - 🌱 I'm a budding Software Engineer; Machine Learning, Data Science and Artificial Intelligence Enthusiast.
 - 🔭 I’m currently the Vice President - [CodeRED](https://uhcode.red) at [CougarCS](https://cougarcs.com) (University of Houston's Largest Student-led CS Organization).
 - 🏢 I'm a Software Development Intern at @ [PROS](https://pros.com) and a Software Accelerate Intern @ [IBM](https://ibm.com). 
