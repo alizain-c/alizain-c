@@ -7,9 +7,7 @@
 - 😄 I enjoy playing soccer, binge-watching Netflix, hanging out with friends, and of course, coding! 
 - ⚡ Fun fact: I spent most of my life living in Bombay, India! 🇮🇳
 
-📫 To reach me, shoot me an email @ azcharolia@uh.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/alizaincharolia/).
-
-Connect with me: [Personal Website](https://www.alizaincharolia.com),  [LinkedIn](https://www.linkedin.com/in/alizaincharolia/) and [Twitter](https://twitter.com/alizainofficial).
+📫 To reach me, shoot me an email @ azcharolia@uh.edu or connect with me: [Personal Website](https://www.alizaincharolia.com),  [LinkedIn](https://www.linkedin.com/in/alizaincharolia/) and [Twitter](https://twitter.com/alizainofficial).
 
 Also, check out my [Medium](https://medium.com/@alizain.charolia).
 
