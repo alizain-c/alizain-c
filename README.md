@@ -13,6 +13,8 @@ To know more about me, check out my [Personal Website](https://www.alizaincharol
 
 Also, check out my [Medium](https://medium.com/@alizain.charolia).
 
+<img src="https://komarev.com/ghpvc/?username=alizain-c&style=flat-square" alt="https://github.com/alizain-c/" />
+
 <!--
 Toolbox: <br> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/>
