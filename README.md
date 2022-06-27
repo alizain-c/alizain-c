@@ -13,7 +13,9 @@ To know more about me, check out my [Personal Website](https://www.alizaincharol
 
 Also, check out my [Medium](https://medium.com/@alizain.charolia).
 
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=alizain-c&style=flat-square" alt="https://github.com/alizain-c/" />
+</div>
 
 <!--
 Toolbox: <br> 
