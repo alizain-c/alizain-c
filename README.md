@@ -9,9 +9,7 @@
 
 To know more about me, check out my [Personal Website](https://www.alizaincharolia.com). 
 
-📫 To reach me, shoot me an email @ azcharolia@uh.edu or connect with me: [LinkedIn](https://www.linkedin.com/in/alizaincharolia/) and [Twitter](https://twitter.com/alizainofficial).
-
-Also, check out my [Medium](https://medium.com/@alizain.charolia).
+📫 To reach me, shoot me an email @ azcharolia@uh.edu or connect with me: [LinkedIn](https://www.linkedin.com/in/alizaincharolia/) and [Twitter](https://twitter.com/alizainofficial). Also, check out my [Medium](https://medium.com/@alizain.charolia).
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=alizain-c&style=flat-square" alt="https://github.com/alizain-c/" />
