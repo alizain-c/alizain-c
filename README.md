@@ -34,7 +34,6 @@ Temp:
 [![Ali Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=alizain-c)](https://github.com/alizain-c/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/alizain-c/alizain-c/blob/main/images/anime.gif" width="200" height="200">
 <!-- ![Anime](https://github.com/alizain-c/alizain-c/blob/main/images/anime.gif) -->
 
-
 <!--
 ### Links:
 [<img alt="Twitter" width="55px" src="https://github.com/alizain-c/README-Files/blob/main/twitter.png" />](https://twitter.com/alizainofficial)
