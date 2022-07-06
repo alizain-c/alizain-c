@@ -43,7 +43,7 @@ PC .gif:
 <img align="right" alt="PC GIF" src="https://github.com/alizain-c/alizain-c/blob/main/images/PC.gif" width="150"/>
 -->
 
-
+.
 <!--
 **alizain-c/alizain-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
