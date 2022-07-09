@@ -5,7 +5,7 @@ Hey there, I'm Ali Zain! 👋🏼
 
 * 💼  I'm currently a software development intern at [PROS, Inc.](https://pros.com) & an Accelerate intern, software track at [IBM](https://ibm.com).  
 * 🎓  I'm working towards my B.S. in Computer Science and Mathematics Degree at the University of Houston
-* 👀  I'm the Vice President of the largest Computer Science organization at UH where I lead and organize the [CodeRED](https://uhcode.red) hackathon!
+* 👀  I'm the V.P. of the largest Computer Science organization at UH where I lead and organize the [CodeRED](https://uhcode.red) hackathon!
 * 🌱  I'm a budding Software Engineer; Machine Learning, Data Science and Artificial Intelligence Enthusiast.
 * ⚡  Fun fact: I spent most of my life living in Bombay, India! 🇮🇳
 * 🖥️  See my portfolio at [alizaincharolia.com](http://alizaincharolia.com)
