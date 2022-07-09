@@ -45,7 +45,7 @@ Hey there, I'm Ali Zain! 👋🏼
 <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" width="36" height="36" alt="RStudio" /></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://arcadia.io/wp-content/uploads/2022/05/arcadia-is-an-aws-partner.png" width="36" height="36" alt="AWS" /></a>
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" width="36" height="36" alt="Jira" /></a>
-  
+<a href="https://figma.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" /></a>
   
 </p>
 
