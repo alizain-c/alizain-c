@@ -40,7 +40,7 @@ Hey there, I'm Ali Zain! 👋🏼
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.anaconda.com/products/distribution" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="36" height="36" alt="Anaconda" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png" width="25" height="36" alt="Django" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png" width="27" height="36" alt="Django" /></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="36" height="36" alt="R" /></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://arcadia.io/wp-content/uploads/2022/05/arcadia-is-an-aws-partner.png" width="36" height="36" alt="AWS" /></a>
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" width="36" height="36" alt="Jira" /></a>
