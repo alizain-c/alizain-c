@@ -10,7 +10,7 @@ Hey there, I'm Ali Zain! 👋🏼
 * ⚡  Fun fact: I spent most of my life living in Bombay, India! 🇮🇳
 * 🖥️  See my portfolio at [alizaincharolia.com](http://alizaincharolia.com)
 * ✉️  You can contact me at [alizain.charolia@gmail.com](mailto:alizain.charolia@gmail.com)
-* <!-- * 📂  I've previously interned at J.P. Morgan and American Express -->
+<!-- * 📂  I've previously interned at J.P. Morgan and American Express -->
 <!-- * 🚀  I'm currently working on [API development](http://github.com/altamashali/got-shot-bot-api) --> 
 <!-- * 🧠  I'm learning Next.js, Elixir, and Phoenix --> 
 
