@@ -54,49 +54,12 @@ Hey there, I'm Ali Zain! 👋🏼
 
 <a href="http://www.github.com/alizain-c"><img src="https://github-readme-stats.vercel.app/api?username=alizain-c&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="alizain-c's GitHub stats" /></a>
 
-<!--
-Toolbox: <br> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="HTML Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="CSS Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS Logo" width="50" height="50"/>
-
-Temp:
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS CODE Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git Logo" width="50" height="50"/>
--->
-<!-- ![Anime](https://github.com/alizain-c/alizain-c/blob/main/images/anime.gif) -->
-
-<!--
-### Links:
-[<img alt="Twitter" width="55px" src="https://github.com/alizain-c/README-Files/blob/main/twitter.png" />](https://twitter.com/alizainofficial)
-[<img alt="LinkedIn" width="60px" src="https://github.com/alizain-c/README-Files/blob/main/linkedin.png" />](https://www.linkedin.com/in/alizaincharolia/)
-
-PC .gif: 
-<img align="right" alt="PC GIF" src="https://github.com/alizain-c/alizain-c/blob/main/images/PC.gif" width="150"/>
--->
-
-
-<!--
-**alizain-c/alizain-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <div>
 <img src="https://komarev.com/ghpvc/?username=alizain-c&style=flat-square" alt="https://github.com/alizain-c/" />
 </div>
+
+### Social Media
+
+<a href="https://www.twitter.com/alizainofficial" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/AlizainOfficial?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
