@@ -41,11 +41,14 @@ Hey there, I'm Ali Zain! 👋🏼
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="36" height="36" alt="R" /></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://arcadia.io/wp-content/uploads/2022/05/arcadia-is-an-aws-partner.png" width="36" height="36" alt="AWS" /></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" width="36" height="36" alt="Jira" /></a>
+  
 </p>
 
 ### My Github Stats
 
 <a href="http://www.github.com/alizain-c"><img src="https://github-readme-stats.vercel.app/api?username=alizain-c&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="alizain-c's GitHub stats" /></a>
+
 
 <!--
 Toolbox: <br> 
