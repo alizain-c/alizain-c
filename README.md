@@ -90,6 +90,6 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center">
+<div>
 <img src="https://komarev.com/ghpvc/?username=alizain-c&style=flat-square" alt="https://github.com/alizain-c/" />
 </div>
