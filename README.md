@@ -4,7 +4,7 @@ Hey there, I'm Ali Zain! 👋🏼
 ### Summary
 
 * 💼  I'm currently a software development intern at [PROS, Inc.](https://pros.com) & an Accelerate intern, software track at [IBM](https://ibm.com).  
-* 🎓  I'm working towards my B.S. in Computer Science and Mathematics Degree at the University of Houston
+* 🎓  I'm working towards my B.S. in Computer Science and Mathematics Degree at the University of Houston.
 * 👀  I'm the V.P. of the largest Computer Science organization at UH where I lead and organize the [CodeRED](https://uhcode.red) hackathon!
 * 🌱  I'm a budding Software Engineer; Machine Learning, Data Science and Artificial Intelligence Enthusiast.
 * ⚡  Fun fact: I spent most of my life living in Bombay, India! 🇮🇳
@@ -45,7 +45,8 @@ Hey there, I'm Ali Zain! 👋🏼
 <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" width="36" height="36" alt="RStudio" /></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://arcadia.io/wp-content/uploads/2022/05/arcadia-is-an-aws-partner.png" width="36" height="36" alt="AWS" /></a>
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" width="36" height="36" alt="Jira" /></a>
-<a href="https://bitbucket.org/product" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" width="36" height="36" alt="Jira" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="36" height="36" alt="git" /></a>
+<a href="https://bitbucket.org/product" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" width="36" height="36" alt="BitBucket" /></a>
 <a href="https://figma.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" /></a>
   
 </p>
