@@ -1,11 +1,27 @@
-## Hey there, I'm Ali Zain! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="40" width="40" />
+Hey there, I'm Ali Zain! 👋🏼
+=========================
 
+### Summary
+
+* 💼  I'm currently a software development intern at [PROS, Inc.](https://pros.com) & an Accelerate intern, software track at [IBM](https://ibm.com).  
+<!-- * 📂  I've previously interned at J.P. Morgan and American Express -->
+* 🎓  I'm working towards my B.S. in Computer Science and Mathematics Degree at the University of Houston
+* 👀  I'm the Vice President of the largest Computer Science organization at UH where I lead and organize the [CodeRED](https://uhcode.red) hackathon!
+* 🌱  I'm a budding Software Engineer; Machine Learning, Data Science and Artificial Intelligence Enthusiast.
+* ⚡  Fun fact: I spent most of my life living in Bombay, India! 🇮🇳
+* 🖥️  See my portfolio at [alizaincharolia.com](http://alizaincharolia.com)
+* ✉️  You can contact me at [alizain.charolia@gmail.com](mailto:alizain.charolia@gmail.com)
+<!-- * 🚀  I'm currently working on [API development](http://github.com/altamashali/got-shot-bot-api) --> 
+<!-- * 🧠  I'm learning Next.js, Elixir, and Phoenix --> 
+
+<!--
 - 📚 I'm a third-year student at the [University of Houston](https://uh.edu) studying Computer Science and Math with a minor in Business Administration!
 - 🌱 I'm a budding Software Engineer; Machine Learning, Data Science and Artificial Intelligence Enthusiast.
 - 🔭 I’m currently the Vice President - [CodeRED](https://uhcode.red) at [CougarCS](https://cougarcs.com) (University of Houston's Largest Student-led CS Organization).
 - 🏢 I'm a Software Development Intern at @ [PROS, Inc.](https://pros.com) and a Software Accelerate Intern @ [IBM](https://ibm.com). 
 - 😄 I enjoy playing soccer, binge-watching Netflix, hanging out with friends, and of course, coding! 
 - ⚡ Fun fact: I spent most of my life living in Bombay, India! 🇮🇳
+--> 
 
 To know more about me, check out my [Personal Website](https://www.alizaincharolia.com). 
 
