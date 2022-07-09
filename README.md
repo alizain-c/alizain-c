@@ -4,13 +4,13 @@ Hey there, I'm Ali Zain! 👋🏼
 ### Summary
 
 * 💼  I'm currently a software development intern at [PROS, Inc.](https://pros.com) & an Accelerate intern, software track at [IBM](https://ibm.com).  
-<!-- * 📂  I've previously interned at J.P. Morgan and American Express -->
 * 🎓  I'm working towards my B.S. in Computer Science and Mathematics Degree at the University of Houston
 * 👀  I'm the Vice President of the largest Computer Science organization at UH where I lead and organize the [CodeRED](https://uhcode.red) hackathon!
 * 🌱  I'm a budding Software Engineer; Machine Learning, Data Science and Artificial Intelligence Enthusiast.
 * ⚡  Fun fact: I spent most of my life living in Bombay, India! 🇮🇳
 * 🖥️  See my portfolio at [alizaincharolia.com](http://alizaincharolia.com)
 * ✉️  You can contact me at [alizain.charolia@gmail.com](mailto:alizain.charolia@gmail.com)
+* <!-- * 📂  I've previously interned at J.P. Morgan and American Express -->
 <!-- * 🚀  I'm currently working on [API development](http://github.com/altamashali/got-shot-bot-api) --> 
 <!-- * 🧠  I'm learning Next.js, Elixir, and Phoenix --> 
 
