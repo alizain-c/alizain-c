@@ -10,9 +10,9 @@ Hey there, I'm Ali Zain! 👋🏼
 * ⚡  Fun fact: I spent most of my life living in Bombay, India! 🇮🇳
 * 🖥️  See my portfolio at [alizaincharolia.com](http://alizaincharolia.com)
 * ✉️  You can contact me at [alizain.charolia@gmail.com](mailto:alizain.charolia@gmail.com)
-<!-- * 📂  I've previously interned at J.P. Morgan and American Express -->
-<!-- * 🚀  I'm currently working on [API development](http://github.com/altamashali/got-shot-bot-api) --> 
-<!-- * 🧠  I'm learning Next.js, Elixir, and Phoenix --> 
+<!-- * 📂  I've previously interned... -->
+<!-- * 🚀  I'm currently working on ... --> 
+<!-- * 🧠  I'm learning ...  --> 
 
 <!--
 - 📚 I'm a third-year student at the [University of Houston](https://uh.edu) studying Computer Science and Math with a minor in Business Administration!
@@ -23,13 +23,11 @@ Hey there, I'm Ali Zain! 👋🏼
 - ⚡ Fun fact: I spent most of my life living in Bombay, India! 🇮🇳
 --> 
 
-To know more about me, check out my [Personal Website](https://www.alizaincharolia.com). 
+<!-- To know more about me, check out my [Personal Website](https://www.alizaincharolia.com). --> 
 
-📫 To reach me, shoot me an email @ azcharolia@uh.edu or connect with me: [LinkedIn](https://www.linkedin.com/in/alizaincharolia/) and [Twitter](https://twitter.com/alizainofficial). Also, check out my [Medium](https://medium.com/@alizain.charolia).
+<!-- 📫 To reach me, shoot me an email @ azcharolia@uh.edu or connect with me: [LinkedIn](https://www.linkedin.com/in/alizaincharolia/) and [Twitter](https://twitter.com/alizainofficial). Also, check out my [Medium](https://medium.com/@alizain.charolia). --> 
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=alizain-c&style=flat-square" alt="https://github.com/alizain-c/" />
-</div>
+### My Skills
 
 <!--
 Toolbox: <br> 
@@ -74,3 +72,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=alizain-c&style=flat-square" alt="https://github.com/alizain-c/" />
+</div>
