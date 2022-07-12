@@ -12,7 +12,7 @@ Hey there, I'm Ali Zain! 👋🏼
 * ✉️  You can contact me at [alizain.charolia@gmail.com](mailto:alizain.charolia@gmail.com)
 <!-- * 📂  I've previously interned... -->
 <!-- * 🚀  I'm currently working on ... --> 
-<!-- * 🧠  I'm learning ....  --> 
+<!-- * 🧠  I'm learning ...  --> 
 
 <!--
 - 📚 I'm a third-year student at the [University of Houston](https://uh.edu) studying Computer Science and Math with a minor in Business Administration!
