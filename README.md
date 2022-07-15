@@ -8,8 +8,8 @@ Hey there, I'm Ali Zain! 👋🏼
 * 👀  I'm the V.P. of the largest Computer Science organization at UH where I lead and organize the [CodeRED](https://uhcode.red) hackathon!
 * 🌱  I'm a budding Software Engineer; Machine Learning, Data Science and Artificial Intelligence Enthusiast.
 * ⚡  Fun fact: I spent most of my life living in Bombay, India! 🇮🇳
-* 🖥️  See my portfolio at [alizaincharolia.com](http://alizaincharolia.com)
-* ✉️  You can contact me at [alizain.charolia@gmail.com](mailto:alizain.charolia@gmail.com)
+* 🖥️  See my portfolio at [alizaincharolia.com](http://alizaincharolia.com).
+* ✉️  You can contact me at [alizain.charolia@gmail.com](mailto:alizain.charolia@gmail.com).
 <!-- * 📂  I've previously interned... -->
 <!-- * 🚀  I'm currently working on ... --> 
 <!-- * 🧠  I'm learning ...  --> 
