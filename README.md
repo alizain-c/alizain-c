@@ -40,6 +40,7 @@ Hey there, I'm Ali Zain! 👋🏼
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://gohugo.io/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original.svg" width="36" height="36" alt="HUGO" /></a>
 <a href="https://www.anaconda.com/products/distribution" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="36" height="36" alt="Anaconda" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png" width="27" height="36" alt="Django" /></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="36" height="36" alt="R" /></a>
