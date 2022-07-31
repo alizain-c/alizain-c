@@ -23,7 +23,7 @@ Hey there, I'm Ali Zain! 👋🏼
 - ⚡ Fun fact: I spent most of my life living in Bombay, India! 🇮🇳
 --> 
 
-<!-- To know more about me, check out my [Personal Website](https://www.alizaincharolia.com). --> 
+<!-- To know more about me, check out my [Personal Website](https://www.alizaincharolia.com).  --> 
 
 <!-- 📫 To reach me, shoot me an email @ azcharolia@uh.edu or connect with me: [LinkedIn](https://www.linkedin.com/in/alizaincharolia/) and [Twitter](https://twitter.com/alizainofficial). Also, check out my [Medium](https://medium.com/@alizain.charolia). --> 
 
