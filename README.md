@@ -72,8 +72,10 @@ Hey there, I'm Ali Zain! 👋🏼
 <img src="https://komarev.com/ghpvc/?username=alizain-c&style=flat-square" alt="https://github.com/alizain-c/" />
 </div>
 
+<!--
 ### Spotify 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21umvxaln2qzxpzq3mllasffa&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+-->
 
 ### Social Media
 
