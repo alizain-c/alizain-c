@@ -3,8 +3,8 @@ Hey there, I'm Ali Zain! 👋🏼
 
 ### Summary
 
-* 🚀  I'm currently a part-time Software Engineer at [PROS, Inc.](https://pros.com) & a part-time Software Engineer at [NASA](https://nasa.gov).
-* 💼  I've previously worked as a software development intern at [PROS, Inc.](https://pros.com) & an Accelerate intern, software track at [IBM](https://ibm.com).  
+* 🚀  I'm currently a back-end engineer intern at [IBM](https://ibm.com).
+* 💼  I've previously worked as a software development intern at [PROS, Inc.](https://pros.com) & a part-time Software Engineer at [NASA](https://nasa.gov).
 * 🎓  I'm working towards my B.S. in Computer Science and Mathematics Degree at the University of Houston.
 * 👀  I'm the V.P. of the largest Computer Science organization at UH where I lead and organize the [CodeRED](https://uhcode.red) hackathon!
 * 🌱  I'm a budding Software Engineer; Machine Learning, Data Science and Artificial Intelligence Enthusiast.
