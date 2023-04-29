@@ -5,7 +5,7 @@
 <hr/>
 <p>
   <samp>
-   Hey there! My name is Ali Zain Charolia (<pre>UGH-LEE-ZAYN</pre>)
+   Hey there! My name is Ali Zain Charolia <span style = "color:gray">(UGH-LEE-ZAYN)</span>
    </samp>
   <br/><br/>
   <samp>
