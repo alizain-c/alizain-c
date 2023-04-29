@@ -3,9 +3,9 @@
  -->
 
 <hr/>
-<p align="center">
+<p>
   <samp>
-    Hey there! My name is Ali Zain Charolia (`UGH-LEE-ZAYN`)
+   Hey there! My name is Ali Zain Charolia (<pre>UGH-LEE-ZAYN</pre>)
    </samp>
   <br/><br/>
   <samp>
