@@ -5,7 +5,7 @@
 <hr/>
 <p>
   <samp>
-   Hey there! My name is Ali Zain Charolia (:sound: UGH-LEE-ZAYN)
+   Hey there! My name is Ali Zain Charolia (:sound:UGH-LEE-ZAYN)
    </samp>
   <br/><br/>
   <samp>
