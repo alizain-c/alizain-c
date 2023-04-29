@@ -12,5 +12,5 @@
     Random Text
   </samp>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=alizain-c&style=flat-square" alt="https://github.com/alizain-c" />
+  <img src="https://komarev.com/ghpvc/?username=alizain-c&style=for-the-badge" alt="https://github.com/alizain-c" />
 </p>
