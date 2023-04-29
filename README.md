@@ -9,7 +9,7 @@
    </samp>
   <br/><br/>
   <samp>
-    I'm always willing to connect and network with more individuals! To learn more about me, and/or connect, visit my website: ![alizaincharolia.com](https://alizaincharolia.com)
+    I'm always willing to connect and network with more individuals! To learn more about me, and/or connect, visit my website: !(alizaincharolia.com)[https://alizaincharolia.com]
   </samp>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=alizain-c&style=for-the-badge" alt="https://github.com/alizain-c" />
