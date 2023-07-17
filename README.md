@@ -14,7 +14,7 @@
 💬 &nbsp;Feel free to reach out to me for anything really!\
 ✉️ &nbsp;You can shoot me an email at azcharolia@uh.edu! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Website](https://www.alizaincharolia.com) for more details about me. I'm open to feedback and suggestions!
-
+---
 ### 🛠 &nbsp;Technologies I'm familiar with
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
