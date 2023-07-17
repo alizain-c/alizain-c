@@ -8,7 +8,8 @@
 
 💡 &nbsp;I like to explore new technologies, develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Full Stack Development, Data Science & Machine/Statistical Learning, Cloud Computing, Topology & Graph Theory, Finance, and Entrepreneurship.\
+🌱 &nbsp;I'm on track for learning more about Full Stack Development, Data Science & Machine/Statistical Learning, and Entrepreneurship.\
+👀 &nbsp;My interests include, but are not limited to Cloud Computing, Systems Design, Topology & Graph Theory, and Finance.\
 ✍️ &nbsp;In my free time, I like binge-watching netflix, playing video games, hanging out with friends, and of course, coding.\
 💬 &nbsp;Feel free to reach out to me for anything really!\
 ✉️ &nbsp;You can shoot me an email at azcharolia@uh.edu! I'll try to respond as soon as I can.\
