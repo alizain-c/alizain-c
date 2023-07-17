@@ -2,7 +2,7 @@
 </p>
  -->
 
-### <img style="margin-top: 10px;" src="https://github.com/alizain-c/alizain-c/blob/main/assets/wave.gif" width="30px">Hi there! I'm Ali Zain  
+### <img src="https://github.com/alizain-c/alizain-c/blob/main/assets/wave.gif" width="30px">Hi there! I'm Ali Zain  
 
 
 <hr/>
