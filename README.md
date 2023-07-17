@@ -2,8 +2,8 @@
 </p>
  -->
 
-## Hi there! I'm Ali Zain <img src="https://github.com/alizain-c/alizain-c/blob/main/assets/wave.gif" width="25px">
-
+### Hi there! I'm Ali Zain <img src="https://github.com/alizain-c/alizain-c/blob/main/assets/wave.gif" width="25px">
+---
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies, develop software solutions and quick hacks.\
