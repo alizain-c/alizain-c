@@ -40,4 +40,7 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
+---
+### Connect with me
+
 <img src="https://komarev.com/ghpvc/?username=alizain-c&style=for-the-badge" alt="https://github.com/alizain-c" />
