@@ -45,5 +45,5 @@
 
 ---
 ### 🤝 &nbsp;Connect with me
-
+![LinkedIn](https://linkedin.com/in/alizaincharolia)&nbsp;
 <!-- <img src="https://komarev.com/ghpvc/?username=alizain-c&style=for-the-badge" alt="https://github.com/alizain-c" /> -->
