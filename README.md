@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies, develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
+🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Houston.\
 🌱 &nbsp;I'm on track for learning more about Full Stack Development, and Data Science & Machine/Statistical Learning.\
 👀 &nbsp;My interests include Cloud Computing, Systems Design, Topology & Graph Theory, and Finance.\
 ✍️ &nbsp;In my free time, I like binge-watching netflix, playing video games, hanging out with friends, and of course, coding.\
