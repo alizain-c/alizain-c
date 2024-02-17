@@ -2,9 +2,11 @@
 </p>
  -->
 
-### Hi there! I'm Ali Zain <img src="https://github.com/alizain-c/alizain-c/blob/main/assets/wave.gif" width="25px">
+### Hi there! <img src="https://github.com/alizain-c/alizain-c/blob/main/assets/wave.gif" width="25px">
 ---
 ### 👨🏻‍💻 &nbsp;About Me
+
+I'm Ali Zain, a senior studying computer science and mathematics at the University of Houston. I'm a Software Engineer Intern at JPMorgan Chase. I am passionate about actively exploring various realms of technology, particularly diving into full-stack development, machine learning, and cloud computing.
 
 💡 &nbsp;I like to explore new technologies, develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Houston.\
