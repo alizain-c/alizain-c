@@ -33,7 +33,7 @@ I'm Ali Zain, a senior studying `computer science` and `mathematics` at the Univ
           <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title = "Gatsby" alt = "Gatsby" width = "40" height = "40"/>&nbsp; 
           <img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original.svg" title = "HUGO" alt = "HUGO" width = "40" height = "40"/>&nbsp; 
           <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title = "Flask" alt = "Flask" width = "40" height = "40"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" title = "Django" alt = "Django" width = "40" height = "40"/>&nbsp; 
+          <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title = "Django" alt = "Django" width = "40" height = "40"/>&nbsp; 
 </div>
 
 <!-- 
