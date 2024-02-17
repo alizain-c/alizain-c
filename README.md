@@ -1,7 +1,6 @@
 <!-- <p style="margin: auto" align="center">
 </p>
  -->
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 
 ### Hi there! <img src="https://github.com/alizain-c/alizain-c/blob/main/assets/wave.gif" width="25px">
 ---
@@ -33,8 +32,7 @@ I'm Ali Zain, a senior studying `computer science` and `mathematics` at the Univ
           <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title = "NodeJS" alt = "NodeJS" width = "40" height = "40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title = "Gatsby" alt = "Gatsby" width = "40" height = "40"/>&nbsp; 
           <img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original.svg" title = "HUGO" alt = "HUGO" width = "40" height = "40"/>&nbsp; 
-          <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title = "Flask" alt = "Flask" width = "40" height = "40"/>&nbsp;
-          <i class="devicon-django-plain"></i>&nbsp; 
+          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" title = "Django" alt = "Django" width = "40" height = "40"/>&nbsp;
 </div>
 
 <!-- 
