@@ -20,8 +20,14 @@ I'm Ali Zain, a senior studying `computer science` and `mathematics` at the Univ
 ---
 ### 🛠 &nbsp;Technologies I'm familiar with
 <div>
-   &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+   &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
           <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title = "JavaScript" alt = "JavaScript" width = "40" height = "40"/>&nbsp; 
+          <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title = "TypeScript" alt = "TypeScript" width = "40" height = "40"/>&nbsp; 
+          <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title = "JavaScript" alt = "JavaScript" width = "40" height = "40"/>&nbsp; 
+          <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title = "JavaScript" alt = "JavaScript" width = "40" height = "40"/>&nbsp; 
+          <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title = "JavaScript" alt = "JavaScript" width = "40" height = "40"/>&nbsp; 
+          <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title = "JavaScript" alt = "JavaScript" width = "40" height = "40"/>&nbsp; 
+          
 </div>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
