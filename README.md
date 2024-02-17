@@ -24,12 +24,13 @@ I'm Ali Zain, a senior studying `computer science` and `mathematics` at the Univ
           <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title = "JavaScript" alt = "JavaScript" width = "40" height = "40"/>&nbsp; 
           <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title = "TypeScript" alt = "TypeScript" width = "40" height = "40"/>&nbsp; 
           <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title = "Java" alt = "Java" width = "40" height = "40"/>&nbsp; 
-          <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title = "JavaScript" alt = "JavaScript" width = "40" height = "40"/>&nbsp; 
-          <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title = "JavaScript" alt = "JavaScript" width = "40" height = "40"/>&nbsp; 
+          <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title = "C" alt = "C" width = "40" height = "40"/>&nbsp; 
+          <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title = "C++" alt = "C++" width = "40" height = "40"/>&nbsp; 
           <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title = "JavaScript" alt = "JavaScript" width = "40" height = "40"/>&nbsp; 
           
 </div>
 
+<!-- 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=white)&nbsp; 
@@ -54,6 +55,7 @@ I'm Ali Zain, a senior studying `computer science` and `mathematics` at the Univ
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+--> 
 
 ---
 ### 🤝 &nbsp;Connect 
