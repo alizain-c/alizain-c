@@ -10,7 +10,7 @@ I'm Ali Zain, a senior studying computer science and mathematics at the Universi
 
 ### 🏢 &nbsp;Work Experience
 
-- 🏦 **JPMorgan Chase**, Software Engineer - Incoming `August 2024`
+- 🏦 **JPMorgan Chase**, Software Engineer - `Incoming August 2024`
 - 🏦 **JPMorgan Chase**, Software Engineer Intern - `June 2023` to `Present`
 - **IBM**, Back End Engineer Intern - `January 2023` to `June 2023`
 - **NASA (LZT/KBR)**, Software Development Intern - `August 2022` to `December 2022`
