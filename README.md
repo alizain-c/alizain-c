@@ -26,6 +26,10 @@ I'm Ali Zain, a senior studying `computer science` and `mathematics` at the Univ
           <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title = "Java" alt = "Java" width = "40" height = "40"/>&nbsp; 
           <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title = "C" alt = "C" width = "40" height = "40"/>&nbsp; 
           <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title = "C++" alt = "C++" width = "40" height = "40"/>&nbsp; 
+          <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title = "HTML" alt = "HTML" width = "40" height = "40"/>&nbsp; 
+          <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title = "CSS" alt = "CSS" width = "40" height = "40"/>&nbsp; 
+          <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title = "Bootstrap" alt = "Bootstrap" width = "40" height = "40"/>&nbsp; 
+          <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title = "Talwind" alt = "Tailwind" width = "40" height = "40"/>&nbsp; 
           <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title = "React" alt = "React" width = "40" height = "40"/>&nbsp; 
           <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title = "NextJS" alt = "NextJS" width = "40" height = "40"/>&nbsp; 
           <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title = "Angular" alt = "Angular" width = "40" height = "40"/>&nbsp; 
