@@ -20,6 +20,8 @@ I'm Ali Zain, a senior studying `computer science` and `mathematics` at the Univ
 ---
 ### 🛠 &nbsp;Technologies I'm familiar with
 
+![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=white)&nbsp; 
