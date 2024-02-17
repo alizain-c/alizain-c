@@ -6,7 +6,7 @@
 ---
 ### 👨🏻‍💻 &nbsp;About Me
 
-I'm Ali Zain, a senior studying computer science and mathematics at the University of Houston. I'm a Software Engineer Intern at JPMorgan Chase. I am passionate about actively exploring various realms of technology, particularly diving into full-stack development, machine learning, and cloud computing.
+I'm Ali Zain, a senior studying computer science and mathematics at the University of Houston. I am passionate about actively exploring various realms of technology, particularly diving into full-stack development, machine learning, and cloud computing.
 
 ### 🏢 &nbsp;Work Experience
 
@@ -16,17 +16,6 @@ I'm Ali Zain, a senior studying computer science and mathematics at the Universi
 - 🚀 **NASA (LZT/KBR)**, Software Development Intern - `August 2022` to `December 2022`
 - ✈️ **PROS AI, Inc**, Software Product Development Intern - `May 2022` to `December 2022`
 
-
-<!--
-💡 &nbsp;I like to explore new technologies, develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Houston.\
-🌱 &nbsp;I'm on track for learning more about Full Stack Development, and Data Science & Machine/Statistical Learning.\
-👀 &nbsp;My interests include Cloud Computing, Systems Design, Topology & Graph Theory, and Finance.\
-✍️ &nbsp;In my free time, I like binge-watching netflix, playing video games, hanging out with friends, and of course, coding.\
-💬 &nbsp;Feel free to reach out to me for anything really!\
-✉️ &nbsp;You can shoot me an email at azcharolia@uh.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Website](https://www.alizaincharolia.com) for more details about me. I'm open to feedback and suggestions!
---> 
 ---
 ### 🛠 &nbsp;Technologies I'm familiar with
 
