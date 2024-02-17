@@ -41,6 +41,8 @@ I'm Ali Zain, a senior studying `computer science` and `mathematics` at the Univ
           <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title = "R" alt = "R" width = "40" height = "40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-plain.svg" title = "RStudio" alt = "RStudio" width = "40" height = "40"/>&nbsp;
  <br>
+ <br>
+
  <div>
    &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title = "AWS" alt = "AWS" width = "40" height = "40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title = "Vim" alt = "Vim" width = "40" height = "40"/>&nbsp;
