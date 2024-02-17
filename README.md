@@ -26,8 +26,12 @@ I'm Ali Zain, a senior studying `computer science` and `mathematics` at the Univ
           <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title = "Java" alt = "Java" width = "40" height = "40"/>&nbsp; 
           <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title = "C" alt = "C" width = "40" height = "40"/>&nbsp; 
           <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title = "C++" alt = "C++" width = "40" height = "40"/>&nbsp; 
-          <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title = "JavaScript" alt = "JavaScript" width = "40" height = "40"/>&nbsp; 
-          
+          <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title = "React" alt = "React" width = "40" height = "40"/>&nbsp; 
+          <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title = "NextJS" alt = "NextJS" width = "40" height = "40"/>&nbsp; 
+          <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title = "Angular" alt = "Angular" width = "40" height = "40"/>&nbsp; 
+          <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title = "NodeJS" alt = "NodeJS" width = "40" height = "40"/>&nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title = "Gatsby" alt = "Gatsby" width = "40" height = "40"/>&nbsp; 
+          <img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original.svg" title = "HUGO" alt = "HUGO" width = "40" height = "40"/>&nbsp; 
 </div>
 
 <!-- 
