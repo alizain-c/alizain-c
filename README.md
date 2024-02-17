@@ -46,6 +46,6 @@ I'm Ali Zain, a senior studying `computer science` and `mathematics` at the Univ
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 ---
-### 🤝 &nbsp;Connect with me
+### 🤝 &nbsp;Connect 
 ![LinkedIn](https://linkedin.com/in/alizaincharolia)&nbsp;
 <!-- <img src="https://komarev.com/ghpvc/?username=alizain-c&style=for-the-badge" alt="https://github.com/alizain-c" /> -->
