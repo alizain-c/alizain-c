@@ -19,7 +19,7 @@ I'm Ali Zain, a senior studying `computer science` and `mathematics` at the Univ
 
 ---
 ### 🛠 &nbsp;Technologies I'm familiar with
-<div>
+<div style = "margin-left: 5px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
