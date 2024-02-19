@@ -76,7 +76,7 @@ I'm Ali Zain, a senior studying `computer science` and `mathematics` at the Univ
 --> 
 
 ---
-### 🤝 &nbsp;Connect 
+### 🤝 &nbsp;Contact 
 
 Let's connect! `Ping` me or shoot me an `email`
 <div>
