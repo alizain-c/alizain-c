@@ -78,15 +78,9 @@ I'm Ali Zain, a senior studying `computer science` and `mathematics` at the Univ
 ---
 ### 🤝 &nbsp;Connect 
 
-Let's connect! `Ping` me anywhere on the following platforms 
+Let's connect! `Ping` me or shoot me an `email`
 <div>
          <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title = "Git" alt = "Git" width = "40" height = "40"/>&nbsp;
-</div>
-
-or shoot me an `email`
-
-<div>
- [📧](mailto:alizain.charolia@gmail.com)
 </div>
 
 <!-- <img src="https://komarev.com/ghpvc/?username=alizain-c&style=for-the-badge" alt="https://github.com/alizain-c" /> -->
