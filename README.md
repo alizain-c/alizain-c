@@ -6,7 +6,7 @@
 ---
 ### 👨🏻‍💻 &nbsp;About Me
 
-I'm Ali Zain, a senior studying `computer science` and `mathematics` at the University of Houston. I am passionate about actively exploring various realms of technology, particularly diving into full-stack development, machine learning, and cloud computing.
+I'm Ali Zain. I'm a recent graduate from the University of Houston with degrees in `computer science` and `mathematics`. I am passionate about actively exploring various realms of technology, particularly diving into full-stack development, machine learning, and cloud computing.
 If you want to learn more, or connect with me, please check out my <a target = "_blank" href = "https://www.alizaincharolia.com" >website</a>.
 
 ---
