@@ -12,8 +12,8 @@ If you want to learn more, or connect with me, please check out my <a target = "
 ---
 ### 🏢 &nbsp;Work Experience
 
-- 🏦 **JPMorgan Chase**, Software Engineer - `Incoming August 2024`
-- 🏦 **JPMorgan Chase**, Software Engineer Intern - `June 2023` to `Present`
+- 🏦 **JPMorgan Chase**, Software Engineer - `August 2024` to `Present`
+- 🏦 **JPMorgan Chase**, Software Engineer Intern - `June 2023` to `May 2024`
 - 💻 **IBM**, Back End Engineer Intern - `January 2023` to `June 2023`
 - 🚀 **NASA (LZT/KBR)**, Software Development Intern - `August 2022` to `December 2022`
 - ✈️ **PROS AI, Inc**, Software Product Development Intern - `May 2022` to `December 2022`
