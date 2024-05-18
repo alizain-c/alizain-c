@@ -75,7 +75,7 @@ If you want to learn more, or connect with me, please check out my <a target = "
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 --> 
-
+<!--
 ---
 ### 🤝 &nbsp;Contact 
 
@@ -83,5 +83,5 @@ Let's connect! `Ping` me or shoot me an `email`
 <div>
          <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title = "Git" alt = "Git" width = "40" height = "40"/>&nbsp;
 </div>
-
+-->
 <!-- <img src="https://komarev.com/ghpvc/?username=alizain-c&style=for-the-badge" alt="https://github.com/alizain-c" /> -->
