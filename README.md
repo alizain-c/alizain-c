@@ -6,8 +6,7 @@
 ---
 ### 👨🏻‍💻 &nbsp;About Me
 
-I'm Alizain. I'm a recent graduate from the University of Houston with degrees in `computer science` and `mathematics`. I am passionate about actively exploring various realms of technology, particularly diving into full-stack development, machine learning, and cloud computing.
-If you want to learn more, or connect with me, please check out my <a target = "_blank" href = "https://www.alizaincharolia.com" >website</a>.
+I'm Alizain. I'm a recent graduate from the University of Houston with degrees in `computer science` and `mathematics`. I am passionate about actively exploring various realms of technology, particularly diving into full-stack development, artificial intelligence, machine learning, and cloud computing.
 
 ---
 ### 🏢 &nbsp;Work Experience
